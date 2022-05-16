@@ -1,2 +1,3 @@
 # Java
-contains all the programs I have done during my computer engineering years in Java
+contains all the programs I have done in Javas.
+this repo will contain everything from intro to programming to OOP to data structures and algos.
